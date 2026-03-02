@@ -4,13 +4,13 @@
 
 
 <p align="center" > <img src="https://readme-typing-svg.demolab.com?font=BoldSerif&size=25&duration=2000&pause=10000&color=0444C4&center=true&width=435&lines=%E2%80%98 PEGASUS+DEVICE!%E2%80%99"/> </p>
-<p align="center">${\textsf{\color{#C42304}  RAINBOW DASH KINNIE / #1 RAINBOW FACTORY EMPLOYEE , , ♡ }}$
+<p align="center">${\textsf{\color{#C42304}  RAINBOW DASH / NO. 1 RF EMPLOYEE , , ♡ }}$
 
-<p align="center">${\textsf{\color{#C47704} rainbows / they / she / pony }}$
-<p align="center">${\textsf{\color{#C49E04} RAINBOW FACTORY FANS INTERACT , , , DOUBLES DNI , }}$
-<p align="center">${\textsf{\color{#64C404} IDRC WHO BOTHERS ME , , , I DO BLOCK EASILY . }}$
-<p align="center">${\textsf{\color{#046AC4} THIS DOES NOT MEAN TAKE ME FOR GRANTED. . }}$
-<p align="center">${\textsf{\color{#6A04C4} IF I DISLIKE YOU / DO NOT TRUST YOU, DON'T TAKE IT SO PERSONAL - I DON'T TRUST A LOT OF PEOPLE. }}$
+<p align="center">${\textsf{\color{#C47704}  rainbows / they / she / pony }}$
+<p align="center">${\textsf{\color{#C49E04}  RAINBOW FACTORY FANS INTERACT , , , DOUBLES DNI , }}$
+<p align="center">${\textsf{\color{#64C404}  IDRC WHO BOTHERS ME , , , I DO BLOCK EASILY . }}$
+<p align="center">${\textsf{\color{#046AC4}  THIS DOES NOT MEAN TAKE ME FOR GRANTED. . }}$
+<p align="center">${\textsf{\color{#6A04C4}  IF I DISLIKE YOU / DO NOT TRUST YOU, DON'T TAKE IT SO PERSONAL - I DON'T TRUST A LOT OF PEOPLE. }}$
 
 ***
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
